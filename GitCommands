@@ -1,0 +1,16 @@
+### Day 11: Essential Git Commands
+
+Git is a version control system that helps developers manage changes to code. Here are some fundamental commands:
+
+1. **git init**: Initializes a new Git repository.
+2. **git clone [url]**: Clones a repository from a remote URL.
+3. **git add [file]**: Adds files to staging area.
+4. **git commit -m "[message]"**: Commits changes with a message.
+5. **git push**: Pushes changes to a remote repository.
+6. **git pull**: Fetches and merges changes from a remote repository.
+7. **git status**: Shows the status of changes.
+8. **git log**: Displays the commit history.
+
+Mastering these commands will streamline your development process!
+
+#BecomeADev #FullStackJourney #Day11 #GitBasics #CodeBetter
